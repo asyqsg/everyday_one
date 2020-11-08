@@ -5,7 +5,7 @@ class Solution:
 
         d1 = d(list)
         for i in arr:
-            d1[bin(i).count('1')].append(i)
+            d1[bin(i).count('1')].append(i)      #bin()的返回类型是str
         d1 = sorted(d1.items(),key=lambda x:x[0])
         res = []
         for key,val in d1:
