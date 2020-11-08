@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16da9781-9c6a-411b-8965-3de26512dc56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/周赛/214周赛1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/周赛/214周赛2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/周赛/214周赛3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/121买股票的最佳时机.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/122买股票的最佳时机2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/32.最长有效括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/327.区间和的个数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/127_单词接龙.py" beforeDir="false" afterPath="$PROJECT_DIR$/127_单词接龙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日一题/1356根据数字二进制下 1 的数目排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/1356根据数字二进制下 1 的数目排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日一题/32.最长有效括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/32.最长有效括号.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,31 +31,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../acwing/排序.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../acwing/练习题" />
   </component>
-  <component name="RunManager" selected="Python.214周赛3">
-    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="transfer_station" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../acwing" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../acwing/归并排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.temp">
     <configuration name="214周赛1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +100,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="32.最长有效括号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="transfer_station" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/32.最长有效括号.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.214周赛3" />
         <item itemvalue="Python.temp" />
+        <item itemvalue="Python.32.最长有效括号" />
+        <item itemvalue="Python.214周赛3" />
         <item itemvalue="Python.214周赛2" />
         <item itemvalue="Python.214周赛1" />
-        <item itemvalue="Python.归并排序" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +167,7 @@
       <workItem from="1604369828896" duration="1094000" />
       <workItem from="1604412247182" duration="6220000" />
       <workItem from="1604624743540" duration="7712000" />
-      <workItem from="1604724138751" duration="16068000" />
+      <workItem from="1604724138751" duration="24302000" />
     </task>
     <servers />
   </component>
@@ -184,49 +175,49 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="779" y="294" key="FileChooserDialogImpl" timestamp="1604748358208">
+    <state x="779" y="294" key="FileChooserDialogImpl" timestamp="1604840459761">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
-    <state x="779" y="294" key="FileChooserDialogImpl/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604748358208" />
-    <state width="1815" height="274" key="GridCell.Tab.0.bottom" timestamp="1604807233180">
+    <state x="779" y="294" key="FileChooserDialogImpl/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604840459761" />
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom" timestamp="1604839390957">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="274" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807233180" />
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604839390957" />
     <state width="1799" height="571" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604754926534" />
-    <state width="1815" height="274" key="GridCell.Tab.0.center" timestamp="1604807233180">
+    <state width="1815" height="274" key="GridCell.Tab.0.center" timestamp="1604839390957">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="274" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807233180" />
+    <state width="1815" height="274" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604839390957" />
     <state width="1799" height="571" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604754926534" />
-    <state width="1815" height="274" key="GridCell.Tab.0.left" timestamp="1604807233180">
+    <state width="1815" height="274" key="GridCell.Tab.0.left" timestamp="1604839390957">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="274" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807233180" />
+    <state width="1815" height="274" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604839390957" />
     <state width="1799" height="571" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604754926534" />
-    <state width="1815" height="274" key="GridCell.Tab.0.right" timestamp="1604807233180">
+    <state width="1815" height="274" key="GridCell.Tab.0.right" timestamp="1604839390957">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="274" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807233180" />
+    <state width="1815" height="274" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604839390957" />
     <state width="1799" height="571" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604754926534" />
-    <state width="1815" height="363" key="GridCell.Tab.1.bottom" timestamp="1604807186575">
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom" timestamp="1604834499564">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807186575" />
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604834499564" />
     <state width="1799" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604726958373" />
-    <state width="1815" height="363" key="GridCell.Tab.1.center" timestamp="1604807186575">
+    <state width="1815" height="363" key="GridCell.Tab.1.center" timestamp="1604834499564">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807186575" />
+    <state width="1815" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604834499564" />
     <state width="1799" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604726958372" />
-    <state width="1815" height="363" key="GridCell.Tab.1.left" timestamp="1604807186575">
+    <state width="1815" height="363" key="GridCell.Tab.1.left" timestamp="1604834499564">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807186575" />
+    <state width="1815" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604834499564" />
     <state width="1799" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604726958372" />
-    <state width="1815" height="363" key="GridCell.Tab.1.right" timestamp="1604807186575">
+    <state width="1815" height="363" key="GridCell.Tab.1.right" timestamp="1604834499564">
       <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604807186575" />
+    <state width="1815" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1604834499564" />
     <state width="1799" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1604726958373" />
     <state x="488" y="297" width="672" height="678" key="search.everywhere.popup" timestamp="1604632514962">
       <screen x="78" y="0" width="1842" height="1080" />
@@ -254,7 +245,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/每日一题/32.最长有效括号.py</url>
-          <line>24</line>
+          <line>33</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -280,12 +271,12 @@
     <SUITE FILE_PATH="coverage/transfer_station$1356_1_.coverage" NAME="1356根据数字二进制下 1 的数目排序 Coverage Results" MODIFIED="1604632157659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$11_1.coverage" NAME="11.1 Coverage Results" MODIFIED="1604372755347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/transfer_station$11_4.coverage" NAME="11.4 Coverage Results" MODIFIED="1604454229691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/transfer_station$2143.coverage" NAME="214周赛3 Coverage Results" MODIFIED="1604807233174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
-    <SUITE FILE_PATH="coverage/transfer_station$32_.coverage" NAME="32.最长有效括号 Coverage Results" MODIFIED="1604673583063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
+    <SUITE FILE_PATH="coverage/transfer_station$2143.coverage" NAME="214周赛3 Coverage Results" MODIFIED="1604833844025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
+    <SUITE FILE_PATH="coverage/transfer_station$32_.coverage" NAME="32.最长有效括号 Coverage Results" MODIFIED="1604834512476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$2141.coverage" NAME="214周赛1 Coverage Results" MODIFIED="1604803339171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
     <SUITE FILE_PATH="coverage/transfer_station$327_.coverage" NAME="327.区间和的个数 Coverage Results" MODIFIED="1604727163765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$.coverage" NAME="归并排序 Coverage Results" MODIFIED="1604754880454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../acwing" />
-    <SUITE FILE_PATH="coverage/transfer_station$temp.coverage" NAME="temp Coverage Results" MODIFIED="1604806681542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/transfer_station$temp.coverage" NAME="temp Coverage Results" MODIFIED="1604839390951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/transfer_station$offer07.coverage" NAME="剑指offer07 Coverage Results" MODIFIED="1604413550991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
