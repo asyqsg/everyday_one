@@ -1,22 +1,29 @@
 from collections import Counter as c
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-
-        size = len(s)
         t = list(t)
-        array1 = []
-        array2 = []
-        dict_t = c(t)
-        def check(j,i):
+        dict_t = dict(c(t))
+        def check(my_list,j):
+            nonlocal max_len
+            if
 
 
-        max_lenght = 0
-        for i in range(size):
-            if s[i] in t:
-                array1.append(s[i])
-                array2.append(i)
+        max_len = 0
+        my_list = []
+        for i in range(len(s)):
 
-        for i in len(array1):
+
+
+
+
+
+
+
+if __name__ == '__main__':
+    print(Solution().minWindow("ADOBECODEBANC","ABC"))
+
+
+
 
 
 
