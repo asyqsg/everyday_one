@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16da9781-9c6a-411b-8965-3de26512dc56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/每日一题/1122数组的相对排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/每日一题/1122数组的相对排序（双指针）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/51逆序对.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/215_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/215_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/周赛/215_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/309移掉k位数字.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日一题/1122数组的相对排序（双指针）.py" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/1122数组的相对排序（不要用双指针）.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/每日一题/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/每日一题/temp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +36,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../acwing/练习题/最长连续不重复的子序列.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../acwing/练习题" />
   </component>
-  <component name="RunManager" selected="Python.1122数组的相对排序（双指针）">
-    <configuration name="1122数组的相对排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.51逆序对">
+    <configuration name="215_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,12 +47,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/1122数组的相对排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/周赛/215_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1122数组的相对排序（双指针）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="215_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/周赛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/1122数组的相对排序（双指针）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/周赛/215_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.最长不重复子串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="309移掉k位数字" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/3.最长不重复子串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/309移掉k位数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3最长不重复子串（acwing板子）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="51逆序对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="transfer_station" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +113,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\pycharm_project\中转站\transfer_station\每日一题\3最长不重复子串（acwing板子）.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/51逆序对.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1122数组的相对排序（双指针）" />
+        <item itemvalue="Python.51逆序对" />
         <item itemvalue="Python.temp (1)" />
-        <item itemvalue="Python.1122数组的相对排序" />
-        <item itemvalue="Python.3.最长不重复子串" />
-        <item itemvalue="Python.3最长不重复子串（acwing板子）" />
+        <item itemvalue="Python.309移掉k位数字" />
+        <item itemvalue="Python.215_3" />
+        <item itemvalue="Python.215_2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +175,7 @@
       <workItem from="1604724138751" duration="24302000" />
       <workItem from="1604884728258" duration="3328000" />
       <workItem from="1605267874574" duration="7368000" />
-      <workItem from="1605343074403" duration="9578000" />
+      <workItem from="1605343074403" duration="24096000" />
     </task>
     <servers />
   </component>
@@ -179,50 +183,51 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="779" y="294" key="FileChooserDialogImpl" timestamp="1605270318953">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state x="2627" y="294" key="FileChooserDialogImpl" timestamp="1605446943379">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
+    <state x="2627" y="294" key="FileChooserDialogImpl/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446943379" />
     <state x="779" y="294" key="FileChooserDialogImpl/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605270318953" />
-    <state width="1799" height="274" key="GridCell.Tab.0.bottom" timestamp="1605365164835">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.0.bottom" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="274" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365164835" />
-    <state width="1799" height="274" key="GridCell.Tab.0.center" timestamp="1605365164834">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.0.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437738675" />
+    <state width="1815" height="363" key="GridCell.Tab.0.center" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="274" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365164834" />
-    <state width="1799" height="274" key="GridCell.Tab.0.left" timestamp="1605365164834">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.0.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437738675" />
+    <state width="1815" height="363" key="GridCell.Tab.0.left" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="274" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365164834" />
-    <state width="1799" height="274" key="GridCell.Tab.0.right" timestamp="1605365164835">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.0.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437738675" />
+    <state width="1815" height="363" key="GridCell.Tab.0.right" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="274" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365164835" />
-    <state width="1799" height="363" key="GridCell.Tab.1.bottom" timestamp="1605365006110">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.0.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437738675" />
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365006110" />
-    <state width="1799" height="363" key="GridCell.Tab.1.center" timestamp="1605365006110">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.1.bottom/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437739245" />
+    <state width="1815" height="363" key="GridCell.Tab.1.center" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365006110" />
-    <state width="1799" height="363" key="GridCell.Tab.1.left" timestamp="1605365006110">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.1.center/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437739245" />
+    <state width="1815" height="363" key="GridCell.Tab.1.left" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365006110" />
-    <state width="1799" height="363" key="GridCell.Tab.1.right" timestamp="1605365006110">
-      <screen x="78" y="0" width="1842" height="1080" />
+    <state width="1815" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.1.left/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437739245" />
+    <state width="1815" height="363" key="GridCell.Tab.1.right" timestamp="1605446944992">
+      <screen x="1920" y="0" width="1858" height="1080" />
     </state>
-    <state width="1799" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605278130687" />
-    <state width="1799" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605365006110" />
+    <state width="1815" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605446944992" />
+    <state width="1799" height="363" key="GridCell.Tab.1.right/78.0.1842.1080/1920.0.1858.1080@78.0.1842.1080" timestamp="1605437739245" />
     <state x="488" y="297" width="672" height="678" key="search.everywhere.popup" timestamp="1604632514962">
       <screen x="78" y="0" width="1842" height="1080" />
     </state>
@@ -293,14 +298,44 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/1122数组的相对排序（双指针）.py</url>
-          <line>41</line>
+          <url>file://$PROJECT_DIR$/每日一题/1122数组的相对排序（不要用双指针）.py</url>
+          <line>43</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/1122数组的相对排序（双指针）.py</url>
+          <url>file://$PROJECT_DIR$/每日一题/1122数组的相对排序（不要用双指针）.py</url>
           <line>34</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/周赛/215_1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/周赛/215_2.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/周赛/215_2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/周赛/215_3.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/周赛/215_3.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/51逆序对.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -313,6 +348,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/transfer_station$215_3.coverage" NAME="215_3 Coverage Results" MODIFIED="1605437738535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
     <SUITE FILE_PATH="coverage/transfer_station$2142.coverage" NAME="214周赛2 Coverage Results" MODIFIED="1604805574504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
     <SUITE FILE_PATH="coverage/transfer_station$1356_1_.coverage" NAME="1356根据数字二进制下 1 的数目排序 Coverage Results" MODIFIED="1604632157659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$2141.coverage" NAME="214周赛1 Coverage Results" MODIFIED="1604803339171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
@@ -320,15 +356,19 @@
     <SUITE FILE_PATH="coverage/transfer_station$327_.coverage" NAME="327.区间和的个数 Coverage Results" MODIFIED="1604727163765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$973_k.coverage" NAME="973.最接近原点的k个点 Coverage Results" MODIFIED="1604888034876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$temp.coverage" NAME="temp Coverage Results" MODIFIED="1605268860198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/transfer_station$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1605359158247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
+    <SUITE FILE_PATH="coverage/transfer_station$215_2.coverage" NAME="215_2 Coverage Results" MODIFIED="1605412375544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
+    <SUITE FILE_PATH="coverage/transfer_station$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1605442110330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$11_1.coverage" NAME="11.1 Coverage Results" MODIFIED="1604372755347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/transfer_station$11_4.coverage" NAME="11.4 Coverage Results" MODIFIED="1604454229691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/transfer_station$2143.coverage" NAME="214周赛3 Coverage Results" MODIFIED="1604833844025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
+    <SUITE FILE_PATH="coverage/transfer_station$215_1.coverage" NAME="215_1 Coverage Results" MODIFIED="1605410544157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/周赛" />
     <SUITE FILE_PATH="coverage/transfer_station$32_.coverage" NAME="32.最长有效括号 Coverage Results" MODIFIED="1604834512476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$1122.coverage" NAME="1122数组的相对排序（双指针） Coverage Results" MODIFIED="1605365164828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$3_.coverage" NAME="3.最长不重复子串 Coverage Results" MODIFIED="1605272956778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$3.coverage" NAME="3最厂不重复子串 Coverage Results" MODIFIED="1605272254896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
+    <SUITE FILE_PATH="coverage/transfer_station$309k.coverage" NAME="309移掉k位数字 Coverage Results" MODIFIED="1605439999810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/transfer_station$.coverage" NAME="归并排序 Coverage Results" MODIFIED="1604754880454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../acwing" />
     <SUITE FILE_PATH="coverage/transfer_station$offer07.coverage" NAME="剑指offer07 Coverage Results" MODIFIED="1604413550991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/transfer_station$51.coverage" NAME="51逆序对 Coverage Results" MODIFIED="1605446316703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
   </component>
 </project>
